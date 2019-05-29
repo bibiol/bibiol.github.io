@@ -1823,6 +1823,7 @@
   .projects-btn:active {
     background-color: #362f2d;
   }
+  
   video {
     width: 100%;
     height: auto;
@@ -1858,9 +1859,7 @@
     font-size: 110%;
   }
   .video-wrap p {
-    font-size: 70%;
-    line-height: 120%;
-    margin: 5px;
+    display: none;
   }
   .video-wrap-time {
     font-size: 60%;
